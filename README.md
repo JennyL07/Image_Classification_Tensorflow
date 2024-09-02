@@ -1,2 +1,2 @@
 # Image_Classification_Tensorflow
-Construct neural network to recognize and classify images.
+Construct a convolution neural network to recognize and classify images.
